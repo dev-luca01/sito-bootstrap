@@ -1,0 +1,35 @@
+.navbar-brand{
+    background-color: rgba(237, 238, 234, 0.882);
+    border-radius: 30px;
+    color: rgba(25, 22, 22, 0.852);
+}
+
+.height{
+  height: 600px;
+}
+
+.carte{
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+    
+}
+.card{
+    margin: 30px auto;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.bottone{
+    display: block;
+    margin:  0 auto;
+}
+
+
+
